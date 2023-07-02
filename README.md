@@ -19,7 +19,7 @@ Below is the assignment Given for Zebu Intelligent systems round 2
 - The 3 equations are
 - ""
   
-  double t = static_cast<double>(i) / num_waypoints;
+ 		 double t = static_cast<double>(i) / num_waypoints;
 		double angle = 2 * M_PI * rotations_per_second * t;
 
 		double x = radius * sin(angle);
