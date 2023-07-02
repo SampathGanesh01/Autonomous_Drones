@@ -34,6 +34,9 @@ Below is the assignment Given for Zebu Intelligent systems round 2
 ![Screenshot from 2023-07-02 14-31-51](https://github.com/SampathGanesh01/Assignment_Zebu/assets/84275114/0a5089f9-ed8e-4215-aa90-9557fabeccf9)
 ![Screenshot from 2023-07-02 14-31-28](https://github.com/SampathGanesh01/Assignment_Zebu/assets/84275114/879fde98-081c-4241-a01a-6bd081ca4e96)
 ![Screenshot from 2023-07-02 14-31-40](https://github.com/SampathGanesh01/Assignment_Zebu/assets/84275114/c48643e7-dbc7-4c76-b47b-ee5b69c88ec6)
+- The above video is having a radius of 5 and if I decrease the radius to 1 ,the output will look like this
+- ![Screenshot from 2023-07-02 17-45-22](https://github.com/SampathGanesh01/Assignment_Zebu/assets/84275114/86d2f05f-f10f-4176-9221-673a9833b9be)
+  
 
 # 3. AruCo landing 
 - well I was unable to complete that I was thinking to use Darknet ros for yolo object detection and develop a script for that one,  but my cuda was not supporing that I was getting an error of
