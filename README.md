@@ -36,6 +36,9 @@ Below is the assignment Given for Zebu Intelligent systems round 2
 ![Screenshot from 2023-07-02 14-31-40](https://github.com/SampathGanesh01/Assignment_Zebu/assets/84275114/c48643e7-dbc7-4c76-b47b-ee5b69c88ec6)
 - The above video is having a radius of 5 and if I decrease the radius to 1 ,the output will look like this
 - ![Screenshot from 2023-07-02 17-45-22](https://github.com/SampathGanesh01/Assignment_Zebu/assets/84275114/86d2f05f-f10f-4176-9221-673a9833b9be)
+
+- The video link for the above simulation is attached below
+- https://www.youtube.com/watch?v=Jmmb2QKsT0k&t
   
 
 # 3. AruCo landing 
