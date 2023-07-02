@@ -17,7 +17,9 @@ Below is the assignment Given for Zebu Intelligent systems round 2
 
 - Well Created a script and Using the formulas given in the questions I have iterated lot of times in the design and by doing some research I have found out that These 3 equations may give some good results for spiral trajectory
 - The 3 equations are
-- "" double t = static_cast<double>(i) / num_waypoints;
+- ""
+  
+  double t = static_cast<double>(i) / num_waypoints;
 		double angle = 2 * M_PI * rotations_per_second * t;
 
 		double x = radius * sin(angle);
