@@ -15,5 +15,15 @@ Below is the assignment Given for Zebu Intelligent systems round 2
 
 # 2.Spiral path implementation
 
-- Well Created a script and Using the formulas given in the questions I have iterated lot of times in the design and by doing some research I have found ou that These 3 equations may give some good results for spiral trajectoruy and I have recorded the trajectory of the drone and uploaded as the video in yoputube and below posting its link and have alook at it
+- Well Created a script and Using the formulas given in the questions I have iterated lot of times in the design and by doing some research I have found out that These 3 equations may give some good results for spiral trajectory
+- The 3 equations are
+- "" double t = static_cast<double>(i) / num_waypoints;
+		double angle = 2 * M_PI * rotations_per_second * t;
+
+		double x = radius * sin(angle);
+		double y = radius * cos(angle);
+		double z = initial_height + forward_velocity * t;
+		double theta = angle * 180 / M_PI;
+"" 
+- and I have recorded the trajectory of the drone and uploaded as the video in yoputube and below posting its link and have alook at it
 - https://www.youtube.com/watch?v=M-y1ViYV5BY
